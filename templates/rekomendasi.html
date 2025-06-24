@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rekomendasi</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            cream: '#EFEBD9',
+            abu: '#999999',
+            navbar: '#E0E0BC'
+          },
+          fontFamily: {
+            inter: ['Lato', 'sans-serif']
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+  </style>
+</head>
+<body class="bg-cream min-h-screen px-0 py-0">
+
+  <!-- Navbar -->
+  <nav class="bg-navbar py-4 px-6 shadow">
+    <div class="max-w-screen-xl mx-auto flex justify-center">
+      <form action="/cari" method="GET" class="relative w-full max-w-md">
+        <input type="text" name="query" placeholder="cari film atau serial TV"
+          class="w-full py-2 pl-12 pr-4 border rounded-full bg-white text-gray-700 focus:outline-none">
+        <img src="{{ url_for('static', filename='assets/search.png') }}" class="w-5 h-5 absolute left-4 top-1/2 -translate-y-1/2 text-abu">
+      </form>
+    </div>
+  </nav>
+
+  <!-- Judul -->
+  <div class="max-w-screen-xl mx-auto px-4">
+    <h2 class="text-xl md:text-2xl font-bold text-black text-center mb-6">Beberapa Pilihan Untukmu yang sedang {{ mood }}</h2>
+
+    <!-- Poster Grid -->
+    <div class="grid grid-cols-2 md:grid-cols-5 gap-x-6 gap-y-10 justify-items-center">
+      {% for item in rekomendasi %}
+      <a href="/detail/{{ item.id }}" class="flex flex-col items-center">
+        <img src="{{ item.poster_url }}" alt="Poster {{ item.title }}" class="w-36 md:w-40 rounded-lg shadow-lg">
+        <span class="mt-2 text-center text-black font-medium text-sm md:text-base leading-tight">{{ item.title }}</span>
+      </a>
+      {% endfor %}
+    </div>
+
+  </div>
+
+</body>
+</html>

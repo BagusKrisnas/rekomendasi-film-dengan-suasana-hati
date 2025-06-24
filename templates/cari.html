@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hasil Pencarian - {{ query }}</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            cream: '#EFEBD9',
+            navbar: '#E0E0BC',
+            abu: '#999999'
+          },
+          fontFamily: {
+            inter: ['Lato', 'sans-serif']
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+  </style>
+</head>
+<body class="bg-cream min-h-screen">
+
+  <!-- Navbar -->
+  <nav class="bg-navbar py-4 px-6 shadow">
+    <div class="max-w-screen-xl mx-auto flex justify-center">
+      <form action="/cari" method="GET" class="relative w-full max-w-md">
+        <input type="text" name="query" placeholder="cari film atau serial TV"
+          class="w-full py-2 pl-12 pr-4 border rounded-full bg-white text-gray-700 focus:outline-none">
+        <img src="{{ url_for('static', filename='assets/search.png') }}" class="w-5 h-5 absolute left-4 top-1/2 -translate-y-1/2 text-abu">
+      </form>
+    </div>
+  </nav>
+
+  <!-- Konten -->
+  <main class="max-w-screen-xl mx-auto px-6 py-10">
+    <h1 class="text-3xl font-bold text-black mb-10 text-center">Hasil pencarian untuk "{{ query }}"</h1>
+
+    {% if hasil %}
+    <div class="flex flex-wrap justify-center gap-6">
+      {% for item in hasil %}
+      <a href="/detail/{{ item.id }}" class="flex flex-col items-center w-44">
+        <img src="{{ item.poster_url }}" alt="{{ item.title }}" class="rounded shadow w-full h-auto">
+        <span class="mt-2 text-sm text-center text-black font-medium">{{ item.title }}</span>
+      </a>
+      {% endfor %}
+    </div>
+    {% else %}
+    <p class="text-gray-600 text-center">Tidak ditemukan hasil yang cocok dengan pencarianmu.</p>
+    {% endif %}
+  </main>
+
+</body>
+</html>

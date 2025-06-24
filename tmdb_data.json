@@ -1,0 +1,3544 @@
+{
+  "popular_movies": [
+    {
+      "adult": false,
+      "backdrop_path": "/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1197306,
+      "original_language": "en",
+      "original_title": "A Working Man",
+      "overview": "",
+      "popularity": 1015.2232,
+      "poster_path": "/xUkUZ8eOnrOnnJAfusZUqKYZiDu.jpg",
+      "release_date": "2025-03-26",
+      "title": "A Working Man",
+      "video": false,
+      "vote_average": 6.261,
+      "vote_count": 328,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg",
+      "genre_ids": [
+        14,
+        12,
+        28
+      ],
+      "id": 324544,
+      "original_language": "en",
+      "original_title": "In the Lost Lands",
+      "overview": "",
+      "popularity": 647.4697,
+      "poster_path": "/iHf6bXPghWB6gT8kFkL1zo00x6X.jpg",
+      "release_date": "2025-02-27",
+      "title": "In the Lost Lands",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 237,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        12,
+        14
+      ],
+      "id": 950387,
+      "original_language": "en",
+      "original_title": "A Minecraft Movie",
+      "overview": "",
+      "popularity": 621.0756,
+      "poster_path": "/e5TC3WaYa8zRwrn1h4XwCauUlmh.jpg",
+      "release_date": "2025-03-31",
+      "title": "A Minecraft Movie",
+      "video": false,
+      "vote_average": 6.12,
+      "vote_count": 646,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k32XKMjmXMGeydykD32jfER3BVI.jpg",
+      "genre_ids": [
+        28,
+        9648,
+        18
+      ],
+      "id": 1045938,
+      "original_language": "en",
+      "original_title": "G20",
+      "overview": "Ketika KTT G20 dikepung, Presiden AS Danielle Sutton menjadi target utama. Setelah menghindari penangkapan oleh para penyerang, dia harus mengakali musuh untuk melindungi keluarganya, membela negaranya, dan melindungi para pemimpin dunia dalam fillm menegangkan yang penuh aksi ini.",
+      "popularity": 437.7789,
+      "poster_path": "/wv6oWAleCJZUk5htrGg413t3GCy.jpg",
+      "release_date": "2025-04-09",
+      "title": "G20",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 308,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/1045938-g20/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 7
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sNx1A3822kEbqeUxvo5A08o4N7o.jpg",
+      "genre_ids": [
+        28,
+        35,
+        53
+      ],
+      "id": 1195506,
+      "original_language": "en",
+      "original_title": "Novocaine",
+      "overview": "",
+      "popularity": 392.7822,
+      "poster_path": "/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
+      "release_date": "2025-03-12",
+      "title": "Novocaine",
+      "video": false,
+      "vote_average": 6.875,
+      "vote_count": 513,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zksO4lVnRKRoaSYzh2EDn2Z3Pel.jpg",
+      "genre_ids": [
+        37,
+        28
+      ],
+      "id": 1293286,
+      "original_language": "en",
+      "original_title": "Gunslingers",
+      "overview": "",
+      "popularity": 359.7036,
+      "poster_path": "/O7REXWPANWXvX2jhQydHjAq2DV.jpg",
+      "release_date": "2025-04-11",
+      "title": "Gunslingers",
+      "video": false,
+      "vote_average": 7.017,
+      "vote_count": 30,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jhL4eTpccoZSVehhcR8DKLSBHZy.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 822119,
+      "original_language": "en",
+      "original_title": "Captain America: Brave New World",
+      "overview": "Sekuel The Falcon and the Winter Soldier dari Marvel Studios dan mengikuti Sam Wilson sebagai Captain America yang baru.",
+      "popularity": 418.6913,
+      "poster_path": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "release_date": "2025-02-12",
+      "title": "Captain America: Brave New World",
+      "video": false,
+      "vote_average": 6.136,
+      "vote_count": 1514,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3lEV4CoKoeT2cZ4fbKEJugZcw6Z.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1244944,
+      "original_language": "en",
+      "original_title": "The Woman in the Yard",
+      "overview": "",
+      "popularity": 262.9611,
+      "poster_path": "/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",
+      "release_date": "2025-03-27",
+      "title": "The Woman in the Yard",
+      "video": false,
+      "vote_average": 6.081,
+      "vote_count": 74,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pulJ1iY7GVeppMRipiR7ZGDW7EW.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 615,
+      "original_language": "en",
+      "original_title": "The Passion of the Christ",
+      "overview": "",
+      "popularity": 222.3654,
+      "poster_path": "/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
+      "release_date": "2004-02-25",
+      "title": "The Passion of the Christ",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 4782,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/615-the-passion-of-the-christ/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/e2hCUg2Z3sJ6yWF9NLU24SIKeWa.jpg",
+            "provider_id": 561,
+            "provider_name": "Lionsgate Play",
+            "display_priority": 35
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cJCW78MZsyyXBKHo4V25WctK00V.jpg",
+      "genre_ids": [
+        27,
+        28,
+        14
+      ],
+      "id": 1312833,
+      "original_language": "en",
+      "original_title": "A Knight's War",
+      "overview": "",
+      "popularity": 210.2357,
+      "poster_path": "/janjdSMrTRGtPrI1p9uOX66jv7x.jpg",
+      "release_date": "2025-02-07",
+      "title": "A Knight's War",
+      "video": false,
+      "vote_average": 5.038,
+      "vote_count": 13,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wmqpE7p2dUCEgCnovuovoNXaCXr.jpg",
+      "genre_ids": [
+        27,
+        14,
+        53,
+        9648,
+        28
+      ],
+      "id": 1353117,
+      "original_language": "en",
+      "original_title": "Home Sweet Home: Rebirth",
+      "overview": "",
+      "popularity": 203.6268,
+      "poster_path": "/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg",
+      "release_date": "2025-03-20",
+      "title": "Home Sweet Home: Rebirth",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 39,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+      "genre_ids": [
+        18,
+        27,
+        53
+      ],
+      "id": 1233413,
+      "original_language": "en",
+      "original_title": "Sinners",
+      "overview": "",
+      "popularity": 199.9285,
+      "poster_path": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "release_date": "2025-04-16",
+      "title": "Sinners",
+      "video": false,
+      "vote_average": 7.46,
+      "vote_count": 136,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        35
+      ],
+      "id": 1241982,
+      "original_language": "en",
+      "original_title": "Moana 2",
+      "overview": "Setelah menerima panggilan tak terduga dari nenek moyangnya yang mencari jalan, Moana harus melakukan perjalanan ke lautan jauh dan ke perairan berbahaya yang telah lama hilang untuk sebuah petualangan yang belum pernah ia hadapi.",
+      "popularity": 187.6585,
+      "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+      "release_date": "2024-11-21",
+      "title": "Moana 2",
+      "video": false,
+      "vote_average": 7.083,
+      "vote_count": 2238,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/1241982-moana-2/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/5B0WB5ohGxRtON8qCuCkGgGCO18.jpg",
+            "provider_id": 122,
+            "provider_name": "Hotstar",
+            "display_priority": 3
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gsQJOfeW45KLiQeEIsom94QPQwb.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1125899,
+      "original_language": "en",
+      "original_title": "Cleaner",
+      "overview": "",
+      "popularity": 173.8674,
+      "poster_path": "/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",
+      "release_date": "2025-02-19",
+      "title": "Cleaner",
+      "video": false,
+      "vote_average": 6.58,
+      "vote_count": 220,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        16
+      ],
+      "id": 762509,
+      "original_language": "en",
+      "original_title": "Mufasa: The Lion King",
+      "overview": "Mufasa, seekor anak singa yang tersesat dan sendirian, bertemu dengan seekor singa yang baik hati bernama Taka, pewaris garis keturunan kerajaan. Pertemuan tak sengaja itu memicu perjalanan panjang sekelompok orang yang tidak beruntung dalam mencari takdir mereka.",
+      "popularity": 172.8788,
+      "poster_path": "/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
+      "release_date": "2024-12-18",
+      "title": "Mufasa: The Lion King",
+      "video": false,
+      "vote_average": 7.424,
+      "vote_count": 1986,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/762509-mufasa-the-lion-king/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/5B0WB5ohGxRtON8qCuCkGgGCO18.jpg",
+            "provider_id": 122,
+            "provider_name": "Hotstar",
+            "display_priority": 3
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+      "genre_ids": [
+        28,
+        878,
+        35,
+        10751,
+        12,
+        14
+      ],
+      "id": 939243,
+      "original_language": "en",
+      "original_title": "Sonic the Hedgehog 3",
+      "overview": "Sonic, Knuckles, dan Tails bersatu kembali melawan musuh baru yang kuat, Shadow, penjahat misterius dengan kekuatan yang belum pernah mereka hadapi sebelumnya. Dengan kemampuan mereka yang tak tertandingi dalam segala hal, Tim Sonic harus mencari aliansi yang tidak terduga dengan harapan dapat menghentikan Shadow dan melindungi planet ini.",
+      "popularity": 166.862,
+      "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+      "release_date": "2024-12-19",
+      "title": "Sonic the Hedgehog 3",
+      "video": false,
+      "vote_average": 7.733,
+      "vote_count": 2440,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/939243-sonic-the-hedgehog-3/watch?locale=ID",
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/is9bmV6uYXu7LjZGJczxrjJDlv8.jpg",
+      "genre_ids": [
+        28,
+        12
+      ],
+      "id": 1229730,
+      "original_language": "fr",
+      "original_title": "Carjackers",
+      "overview": "",
+      "popularity": 147.317,
+      "poster_path": "/wbkPMTz2vVai7Ujyp0ag7AM9SrO.jpg",
+      "release_date": "2025-03-27",
+      "title": "Carjackers",
+      "video": false,
+      "vote_average": 6.123,
+      "vote_count": 146,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/1229730-carjackers/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 7
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ibF5XVxTzf1ayzZrmiJqgeQ39Qk.jpg",
+      "genre_ids": [
+        28,
+        10752
+      ],
+      "id": 1373723,
+      "original_language": "en",
+      "original_title": "The Codes of War",
+      "overview": "",
+      "popularity": 149.8118,
+      "poster_path": "/oXeiQAfRK90pxxhP5iKPXQqAIN1.jpg",
+      "release_date": "2025-03-20",
+      "title": "The Codes of War",
+      "video": false,
+      "vote_average": 6.259,
+      "vote_count": 58,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fzv87rT0jlAkh5Uf9PpIlUj6Nj8.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1195585,
+      "original_language": "en",
+      "original_title": "The Hard Hit",
+      "overview": "",
+      "popularity": 135.8493,
+      "poster_path": "/whkFbOZTamHeugEG95jvQehSzAH.jpg",
+      "release_date": "2023-10-20",
+      "title": "The Hard Hit",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 17,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vNUwK5P42m81uG57kKI1WxSZwIQ.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 1403735,
+      "original_language": "te",
+      "original_title": "లైలా",
+      "overview": "",
+      "popularity": 144.6829,
+      "poster_path": "/l4gsNxFPGpzbq0D6QK1a8vO1lBz.jpg",
+      "release_date": "2025-02-14",
+      "title": "లైలా",
+      "video": false,
+      "vote_average": 1.0,
+      "vote_count": 1,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/1403735/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 7
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hNA73rnG4PjSwgojaC2gbO1f8Rt.jpg",
+      "genre_ids": [
+        878,
+        35,
+        12
+      ],
+      "id": 696506,
+      "original_language": "en",
+      "original_title": "Mickey 17",
+      "overview": "Mickey 17, yang dikenal sebagai “expandable”, melakukan perjalanan berbahaya untuk menjajah sebuah planet es.",
+      "popularity": 142.8241,
+      "poster_path": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+      "release_date": "2025-02-28",
+      "title": "Mickey 17",
+      "video": false,
+      "vote_average": 6.904,
+      "vote_count": 1602,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/696506-mickey-17/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qiVrapzgrDO7c6yQTSvn0dhwsn8.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1252309,
+      "original_language": "es",
+      "original_title": "Pídeme lo que quieras",
+      "overview": "",
+      "popularity": 130.3702,
+      "poster_path": "/76qnVxU2rPdVvipBN3DPQH6fVYB.jpg",
+      "release_date": "2024-11-29",
+      "title": "Pídeme lo que quieras",
+      "video": false,
+      "vote_average": 5.936,
+      "vote_count": 149,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lqHt4icP1GTaNBeVTxTrwTZdoAW.jpg",
+      "genre_ids": [
+        28,
+        53,
+        9648,
+        80
+      ],
+      "id": 1195430,
+      "original_language": "hi",
+      "original_title": "देवा",
+      "overview": "",
+      "popularity": 121.3989,
+      "poster_path": "/4wKpglgZYMYpISMdThgdqS1TSQc.jpg",
+      "release_date": "2025-01-31",
+      "title": "देवा",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 42,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/1195430/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kYqEsUtilXXcb7FDfGIUaDq7j5F.jpg",
+      "genre_ids": [
+        53,
+        35
+      ],
+      "id": 1101401,
+      "original_language": "en",
+      "original_title": "Sugar Baby",
+      "overview": "",
+      "popularity": 123.1548,
+      "poster_path": "/z7NyxmdJ1ypn3Y6BVizjGODuBdO.jpg",
+      "release_date": "2024-10-15",
+      "title": "Sugar Baby",
+      "video": false,
+      "vote_average": 6.563,
+      "vote_count": 8,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o5vasl0xbZWWKQnAlaBTSgntHH2.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1208808,
+      "original_language": "es",
+      "original_title": "Turno nocturno",
+      "overview": "",
+      "popularity": 116.1048,
+      "poster_path": "/iSSx9Bys64vlOkvkyKXtp19P7Re.jpg",
+      "release_date": "2024-10-31",
+      "title": "Turno nocturno",
+      "video": false,
+      "vote_average": 6.389,
+      "vote_count": 117,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hwlyY7LJdEFbCPaGNXiskKKmJ5X.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1126166,
+      "original_language": "en",
+      "original_title": "Flight Risk",
+      "overview": "",
+      "popularity": 121.0163,
+      "poster_path": "/q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg",
+      "release_date": "2025-01-22",
+      "title": "Flight Risk",
+      "video": false,
+      "vote_average": 6.109,
+      "vote_count": 644,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m2mzlsJjE3UAqeUB5fLUkpWg4Iq.jpg",
+      "genre_ids": [
+        53,
+        878
+      ],
+      "id": 1165067,
+      "original_language": "en",
+      "original_title": "Cosmic Chaos",
+      "overview": "",
+      "popularity": 108.509,
+      "poster_path": "/mClzWv7gBqgXfjZXp49Enyoex1v.jpg",
+      "release_date": "2023-08-03",
+      "title": "Cosmic Chaos",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 46,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yMoEGh8kDEwqsoJumnQLwFJ9V6h.jpg",
+      "genre_ids": [
+        53,
+        28
+      ],
+      "id": 1087891,
+      "original_language": "en",
+      "original_title": "The Amateur",
+      "overview": "",
+      "popularity": 105.8649,
+      "poster_path": "/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
+      "release_date": "2025-04-09",
+      "title": "The Amateur",
+      "video": false,
+      "vote_average": 6.646,
+      "vote_count": 140,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9OO6I25MHhCDd0XwNk4oZl0fpwB.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 1261050,
+      "original_language": "da",
+      "original_title": "De lydløse",
+      "overview": "",
+      "popularity": 102.0625,
+      "poster_path": "/63tvLp9pYygvAaqWpikjTq9FHy7.jpg",
+      "release_date": "2024-10-31",
+      "title": "De lydløse",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 41,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "genre_ids": [
+        10749,
+        878,
+        53
+      ],
+      "id": 950396,
+      "original_language": "en",
+      "original_title": "The Gorge",
+      "overview": "Dua agen yang sangat terlatih makin akrab dari kejauhan setelah ditugaskan untuk menjaga sisi berlawanan di jurang misterius. Saat kejahatan muncul dari bawah, mereka harus bekerja sama agar selamat dari apa yang ada di dalamnya.",
+      "popularity": 112.0142,
+      "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+      "release_date": "2025-02-13",
+      "title": "The Gorge",
+      "video": false,
+      "vote_average": 7.732,
+      "vote_count": 2402,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/950396-the-gorge/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/2E03IAZsX4ZaUqM7tXlctEPMGWS.jpg",
+            "provider_id": 350,
+            "provider_name": "Apple TV+",
+            "display_priority": 12
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg",
+      "genre_ids": [
+        27,
+        53,
+        14
+      ],
+      "id": 1020414,
+      "original_language": "en",
+      "original_title": "Peter Pan's Neverland Nightmare",
+      "overview": "",
+      "popularity": 101.7698,
+      "poster_path": "/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg",
+      "release_date": "2025-01-13",
+      "title": "Peter Pan's Neverland Nightmare",
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 55,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rKTRky21Sk5jpfMBUeHYamqshkt.jpg",
+      "genre_ids": [
+        16,
+        28,
+        878
+      ],
+      "id": 1103432,
+      "original_language": "ja",
+      "original_title": "BLOODY ESCAPE -地獄の逃走劇-",
+      "overview": "",
+      "popularity": 93.5004,
+      "poster_path": "/XtmxgjOYd9qYbyUyhUkvbGLgvG.jpg",
+      "release_date": "2024-01-05",
+      "title": "BLOODY ESCAPE -地獄の逃走劇-",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 2,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jiKwojRdwMYsDEMxQp5NFS3sOKb.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1282980,
+      "original_language": "en",
+      "original_title": "825 Forest Road",
+      "overview": "",
+      "popularity": 95.287,
+      "poster_path": "/gWiVDQlsHDy0ihChXtT8MgtmIYg.jpg",
+      "release_date": "2025-04-04",
+      "title": "825 Forest Road",
+      "video": false,
+      "vote_average": 5.969,
+      "vote_count": 49,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/opNdWurarqYxrzqpVRPyZrbWb3K.jpg",
+      "genre_ids": [
+        27,
+        53,
+        9648
+      ],
+      "id": 1029880,
+      "original_language": "da",
+      "original_title": "Nattevagten - Dæmoner går i arv",
+      "overview": "",
+      "popularity": 98.8153,
+      "poster_path": "/g9gzoKqS6TpGJIrChiWepq6ydxN.jpg",
+      "release_date": "2023-12-14",
+      "title": "Nattevagten - Dæmoner går i arv",
+      "video": false,
+      "vote_average": 5.922,
+      "vote_count": 58,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/olExC8areYxKPu3pmKWRsgPz0Et.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1226572,
+      "original_language": "hi",
+      "original_title": "सुपरबॉय्ज़ ऑफ मालेगाँव",
+      "overview": "Di kota kecil bernama Malegaon, film adalah satu-satunya pelarian dari kehidupan sehari-hari. Nasir Shaikh, seorang pembuat film, mengajak teman-temannya membuat film untuk orang Malegaon, dari orang Malegaon. Dalam kisah menyentuh pembuatan film dan persahabatan ini, tekad mengalahkan bujet rendah, kecerdikan mengalahkan tantangan, dan impian menghidupkan harapan, membawa angin segar ke kota ini.",
+      "popularity": 97.9609,
+      "poster_path": "/BHA96t8fLlUaWuv7GydgzKuY6J.jpg",
+      "release_date": "2025-02-28",
+      "title": "Pria-Pria Super dari Malegaon",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 6,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e807jDKiFcntZS32ze88X6I96OD.jpg",
+      "genre_ids": [
+        16,
+        28
+      ],
+      "id": 1297763,
+      "original_language": "ja",
+      "original_title": "ニンジャバットマン対ヤクザリーグ",
+      "overview": "",
+      "popularity": 95.3441,
+      "poster_path": "/y2mQtPz6uDdw4CRpSdU5tlGB2MA.jpg",
+      "release_date": "2025-03-17",
+      "title": "ニンジャバットマン対ヤクザリーグ",
+      "video": false,
+      "vote_average": 6.62,
+      "vote_count": 142,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/1297763/watch?locale=ID",
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xb9wpY31SeVZbfkevYuolhfV63w.jpg",
+      "genre_ids": [
+        10751,
+        14
+      ],
+      "id": 447273,
+      "original_language": "en",
+      "original_title": "Snow White",
+      "overview": "Putri Salju melarikan diri dari kastil ketika Ratu Jahat, dalam kecemburuannya atas kecantikan Putri Salju, mencoba membunuhnya. Jauh di dalam hutan yang gelap, dia menemukan tujuh kurcaci ajaib dan seorang pencuri muda bernama Jonathan. Bersama-sama, mereka berusaha untuk bertahan hidup dari pengejaran sang Ratu yang tiada henti dan bercita-cita untuk merebut kembali kerajaan.",
+      "popularity": 90.4882,
+      "poster_path": "/xWWg47tTfparvjK0WJNX4xL8lW2.jpg",
+      "release_date": "2025-03-19",
+      "title": "Snow White",
+      "video": false,
+      "vote_average": 4.503,
+      "vote_count": 564,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vh5FIqfosYaLWxCmZfSPjgUWWfn.jpg",
+      "genre_ids": [
+        27,
+        35,
+        10749
+      ],
+      "id": 1302916,
+      "original_language": "en",
+      "original_title": "Heart Eyes",
+      "overview": "",
+      "popularity": 81.6051,
+      "poster_path": "/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
+      "release_date": "2025-02-06",
+      "title": "Heart Eyes",
+      "video": false,
+      "vote_average": 6.317,
+      "vote_count": 169,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/deUWVEgNh2IGjShyymZhaYP40ye.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 1356039,
+      "original_language": "es",
+      "original_title": "Contraataque",
+      "overview": "Saat misi penyelamatan sandera malah menciptakan musuh baru, Kapten Guerrero dan para prajurit elitenya harus menghadapi penyergapan oleh sebuah kelompok kriminal.",
+      "popularity": 88.887,
+      "poster_path": "/kxnFdLJhi37ZVFDCL1ka0yeQVU5.jpg",
+      "release_date": "2025-02-27",
+      "title": "Counterattack",
+      "video": false,
+      "vote_average": 8.375,
+      "vote_count": 637,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/1356039-contraataque/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 912649,
+      "original_language": "en",
+      "original_title": "Venom: The Last Dance",
+      "overview": "Dalam Venom: The Last Dance, Tom Hardy kembali sebagai Venom, salah satu karakter Marvel terhebat dan paling kompleks, untuk film terakhir dalam trilogi tersebut. Eddie dan Venom sedang dalam pelarian. Diburu oleh kedua dunia mereka dan dengan semakin dekatnya jaring, keduanya terpaksa mengambil keputusan yang menghancurkan yang akan menutup tirai tarian terakhir Venom dan Eddie.",
+      "popularity": 85.0017,
+      "poster_path": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+      "release_date": "2024-10-22",
+      "title": "Venom: The Last Dance",
+      "video": false,
+      "vote_average": 6.781,
+      "vote_count": 3198,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/912649-venom-the-last-dance/watch?locale=ID",
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ]
+      }
+    }
+  ],
+  "top_rated_movies": [
+    {
+      "adult": false,
+      "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 278,
+      "original_language": "en",
+      "original_title": "The Shawshank Redemption",
+      "overview": "",
+      "popularity": 43.9251,
+      "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "release_date": "1994-09-23",
+      "title": "The Shawshank Redemption",
+      "video": false,
+      "vote_average": 8.708,
+      "vote_count": 28153,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/278-the-shawshank-redemption/watch?locale=ID",
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/170ZfHTLT6ZlG38iLLpNYcBGUkG.jpg",
+            "provider_id": 1899,
+            "provider_name": "Max",
+            "display_priority": 40
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 238,
+      "original_language": "en",
+      "original_title": "The Godfather",
+      "overview": "Patriark tua dari dinasti kejahatan terorganisir di New York City pascaperang mengalihkan kendali kerajaan klandestinnya kepada putra bungsunya yang enggan.",
+      "popularity": 43.0283,
+      "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "release_date": "1972-03-14",
+      "title": "The Godfather",
+      "video": false,
+      "vote_average": 8.687,
+      "vote_count": 21343,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/238-the-godfather/watch?locale=ID",
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/l2ZNwMC37iK0fquVuYWfcgIJJdF.jpg",
+            "provider_id": 489,
+            "provider_name": "Vidio",
+            "display_priority": 17
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 240,
+      "original_language": "en",
+      "original_title": "The Godfather Part II",
+      "overview": "",
+      "popularity": 20.5878,
+      "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "release_date": "1974-12-20",
+      "title": "The Godfather Part II",
+      "video": false,
+      "vote_average": 8.57,
+      "vote_count": 12902,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/240-the-godfather-part-ii/watch?locale=ID",
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/l2ZNwMC37iK0fquVuYWfcgIJJdF.jpg",
+            "provider_id": 489,
+            "provider_name": "Vidio",
+            "display_priority": 17
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 424,
+      "original_language": "en",
+      "original_title": "Schindler's List",
+      "overview": "",
+      "popularity": 33.0289,
+      "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "release_date": "1993-12-15",
+      "title": "Schindler's List",
+      "video": false,
+      "vote_average": 8.564,
+      "vote_count": 16372,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/424-schindler-s-list/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 7
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bxgTSUenZDHNFerQ1whRKplrMKF.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 389,
+      "original_language": "en",
+      "original_title": "12 Angry Men",
+      "overview": "Setelah argumen penutup dalam persidangan pembunuhan, 12 anggota juri harus berunding, dengan vonis bersalah yang berarti kematian bagi terdakwa, seorang remaja dari kota. Ketika belasan orang itu mencoba untuk mencapai keputusan bulat saat diasingkan di sebuah ruangan, seorang juri (Henry Fonda) meragukan beberapa elemen dari kasus tersebut. Masalah pribadi segera muncul ke permukaan, dan konflik mengancam untuk menggagalkan proses rumit yang akan menentukan nasib seorang anak laki-laki.",
+      "popularity": 18.8763,
+      "poster_path": "/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+      "release_date": "1957-04-10",
+      "title": "12 Angry Men",
+      "video": false,
+      "vote_average": 8.547,
+      "vote_count": 9082,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/389-12-angry-men/watch?locale=ID",
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 7
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 129,
+      "original_language": "ja",
+      "original_title": "千と千尋の神隠し",
+      "overview": "Seorang anak perempuan berusia 10 tahun semakin jauh dari orangtuanya, memasuki dunia yang dikuasai oleh para binatang aneh yang mirip monster. Akankah dia bisa melihat kembali dunia seperti semula?",
+      "popularity": 31.0343,
+      "poster_path": "/8TEs6twIANAc2qiU8m17JO8Ujcx.jpg",
+      "release_date": "2001-07-20",
+      "title": "Spirited Away",
+      "video": false,
+      "vote_average": 8.537,
+      "vote_count": 17053,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/129/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oOv2oUXcAaNXakRqUPxYq5lJURz.jpg",
+      "genre_ids": [
+        18,
+        28,
+        80,
+        53
+      ],
+      "id": 155,
+      "original_language": "en",
+      "original_title": "The Dark Knight",
+      "overview": "",
+      "popularity": 35.7159,
+      "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "release_date": "2008-07-16",
+      "title": "The Dark Knight",
+      "video": false,
+      "vote_average": 8.519,
+      "vote_count": 33731,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/170ZfHTLT6ZlG38iLLpNYcBGUkG.jpg",
+            "provider_id": 1899,
+            "provider_name": "Max",
+            "display_priority": 40
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/90ez6ArvpO8bvpyIngBuwXOqJm5.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 19404,
+      "original_language": "hi",
+      "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+      "overview": "",
+      "popularity": 9.9986,
+      "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+      "release_date": "1995-10-20",
+      "title": "Dilwale Dulhania Le Jayenge",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 4482,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/19404/watch?locale=ID",
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 7
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
+      "genre_ids": [
+        14,
+        18,
+        80
+      ],
+      "id": 497,
+      "original_language": "en",
+      "original_title": "The Green Mile",
+      "overview": "",
+      "popularity": 33.0839,
+      "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+      "release_date": "1999-12-10",
+      "title": "The Green Mile",
+      "video": false,
+      "vote_average": 8.504,
+      "vote_count": 18012,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/497-the-green-mile/watch?locale=ID",
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+      "genre_ids": [
+        35,
+        53,
+        18
+      ],
+      "id": 496243,
+      "original_language": "ko",
+      "original_title": "기생충",
+      "overview": "Semua menganggur, keluarga Ki-taek memiliki minat khusus pada Taman kaya dan glamor untuk mata pencaharian mereka sampai mereka terjerat dalam insiden tak terduga.",
+      "popularity": 31.8181,
+      "poster_path": "/mSi0gskYpmf1FbXngM37s2HppXh.jpg",
+      "release_date": "2019-05-30",
+      "title": "Parasite",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 18950,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/496243/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/l2ZNwMC37iK0fquVuYWfcgIJJdF.jpg",
+            "provider_id": 489,
+            "provider_name": "Vidio",
+            "display_priority": 17
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "genre_ids": [
+        53,
+        80
+      ],
+      "id": 680,
+      "original_language": "en",
+      "original_title": "Pulp Fiction",
+      "overview": "",
+      "popularity": 43.1097,
+      "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "release_date": "1994-09-10",
+      "title": "Pulp Fiction",
+      "video": false,
+      "vote_average": 8.49,
+      "vote_count": 28576,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/680-pulp-fiction/watch?locale=ID",
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/170ZfHTLT6ZlG38iLLpNYcBGUkG.jpg",
+            "provider_id": 1899,
+            "provider_name": "Max",
+            "display_priority": 40
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+      "genre_ids": [
+        16,
+        10749,
+        18
+      ],
+      "id": 372058,
+      "original_language": "ja",
+      "original_title": "君の名は。",
+      "overview": "",
+      "popularity": 27.2615,
+      "poster_path": "/yLglTwyFOUZt5fNKm0PWL1PK5gm.jpg",
+      "release_date": "2016-08-26",
+      "title": "Kimi no Na wa",
+      "video": false,
+      "vote_average": 8.485,
+      "vote_count": 11719,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/372058/watch?locale=ID",
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 122,
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Return of the King",
+      "overview": "Aragorn dinyatakan sebagai pewaris raja-raja kuno saat ia, Gandalf dan anggota-anggota lain dari persekutuan yang rusak berjuang untuk menyelamatkan Gondor dari pasukan Sauron. Sementara itu, Frodo dan Sam membawa cincin itu lebih dekat ke jantung Mordor, kerajaan penguasa gelap.",
+      "popularity": 28.6009,
+      "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "release_date": "2003-12-17",
+      "title": "The Lord of the Rings: The Return of the King",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 24979,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/122-the-lord-of-the-rings-the-return-of-the-king/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/170ZfHTLT6ZlG38iLLpNYcBGUkG.jpg",
+            "provider_id": 1899,
+            "provider_name": "Max",
+            "display_priority": 40
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ghgfzbEV7kbpbi1O8eIILKVXEA8.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 13,
+      "original_language": "en",
+      "original_title": "Forrest Gump",
+      "overview": "Forrest Gump, seorang pria ber IQ rendah - namun baik hati, bergabung dengan tentara untuk mengabdi. Namun, benaknya seolah tidak bisa berhenti memikirkan sang kekasih masa kecilnya, Jenny Curran.",
+      "popularity": 28.198,
+      "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+      "release_date": "1994-06-23",
+      "title": "Forrest Gump",
+      "video": false,
+      "vote_average": 8.468,
+      "vote_count": 28106,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/13-forrest-gump/watch?locale=ID",
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 429,
+      "original_language": "it",
+      "original_title": "Il buono, il brutto, il cattivo",
+      "overview": "",
+      "popularity": 41.2313,
+      "poster_path": "/2VTS3wRO59hPEHiXqMOkGaypJGe.jpg",
+      "release_date": "1966-12-22",
+      "title": "Il buono, il brutto, il cattivo",
+      "video": false,
+      "vote_average": 8.463,
+      "vote_count": 8939,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/429-il-buono-il-brutto-il-cattivo/watch?locale=ID",
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 7
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sJNNMCc6B7KZIY3LH3JMYJJNH5j.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 346,
+      "original_language": "ja",
+      "original_title": "七人の侍",
+      "overview": "",
+      "popularity": 8.2177,
+      "poster_path": "/8podTebyeH6sn31atpdappdgaCE.jpg",
+      "release_date": "1954-04-26",
+      "title": "七人の侍",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 3868,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7TF4p86ZafnxFuNqWdhpHXFO244.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 769,
+      "original_language": "en",
+      "original_title": "GoodFellas",
+      "overview": "Mantan mafia, Henry Hill, menceritakan kisah suka dukanya yang penuh warna tapi brutal dalam keluarga kriminal New York. Impian untuk hidup mewah pun jadi mimpi buruk.",
+      "popularity": 33.0676,
+      "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+      "release_date": "1990-09-12",
+      "title": "GoodFellas",
+      "video": false,
+      "vote_average": 8.456,
+      "vote_count": 13295,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/769-goodfellas/watch?locale=ID",
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/170ZfHTLT6ZlG38iLLpNYcBGUkG.jpg",
+            "provider_id": 1899,
+            "provider_name": "Max",
+            "display_priority": 40
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+      "genre_ids": [
+        12,
+        18,
+        878
+      ],
+      "id": 157336,
+      "original_language": "en",
+      "original_title": "Interstellar",
+      "overview": "Antarbintang mencatat petualangan sekelompok penjelajah yang memanfaatkan lubang cacing yang baru ditemukan untuk melampaui batasan perjalanan ruang angkasa manusia dan menaklukkan jarak yang luas yang terlibat dalam pelayaran antarbintang.",
+      "popularity": 47.4626,
+      "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "release_date": "2014-11-05",
+      "title": "Interstellar",
+      "video": false,
+      "vote_average": 8.454,
+      "vote_count": 36965,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/157336-interstellar/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/170ZfHTLT6ZlG38iLLpNYcBGUkG.jpg",
+            "provider_id": 1899,
+            "provider_name": "Max",
+            "display_priority": 40
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tDFvXn4tane9lUvFAFAUkMylwSr.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10752
+      ],
+      "id": 12477,
+      "original_language": "ja",
+      "original_title": "火垂るの墓",
+      "overview": "",
+      "popularity": 0.0141,
+      "poster_path": "/rNMTxDJGnyqXZ9n3b3HXdoKFRid.jpg",
+      "release_date": "1988-04-16",
+      "title": "火垂るの墓",
+      "video": false,
+      "vote_average": 8.451,
+      "vote_count": 5848,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/12477/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 637,
+      "original_language": "it",
+      "original_title": "La vita è bella",
+      "overview": "",
+      "popularity": 17.5767,
+      "poster_path": "/Moz0CzJ44U9L3ADxlVE24LTwY4.jpg",
+      "release_date": "1997-12-20",
+      "title": "La vita è bella",
+      "video": false,
+      "vote_average": 8.448,
+      "vote_count": 13313,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 550,
+      "original_language": "en",
+      "original_title": "Fight Club",
+      "overview": "Seorang pekerja kantoran yang menderita insomnia dan pembuat sabun yang sangat peduli membentuk klub pertarungan bawah tanah yang berkembang menjadi lebih banyak lagi.",
+      "popularity": 36.3844,
+      "poster_path": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "release_date": "1999-10-15",
+      "title": "Fight Club",
+      "video": false,
+      "vote_average": 8.438,
+      "vote_count": 30168,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/5B0WB5ohGxRtON8qCuCkGgGCO18.jpg",
+            "provider_id": 122,
+            "provider_name": "Hotstar",
+            "display_priority": 3
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 11216,
+      "original_language": "it",
+      "original_title": "Nuovo Cinema Paradiso",
+      "overview": "",
+      "popularity": 9.6768,
+      "poster_path": "/3hcXpztAe9L6VLpDGwohS01ZSxw.jpg",
+      "release_date": "1988-11-17",
+      "title": "Nuovo Cinema Paradiso",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 4507,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 598,
+      "original_language": "pt",
+      "original_title": "Cidade de Deus",
+      "overview": "",
+      "popularity": 12.6535,
+      "poster_path": "/gfnXixcGC060QcG6JPxN6AMdVsq.jpg",
+      "release_date": "2002-08-30",
+      "title": "Cidade de Deus",
+      "video": false,
+      "vote_average": 8.429,
+      "vote_count": 7598,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+      "genre_ids": [
+        27,
+        53,
+        9648
+      ],
+      "id": 539,
+      "original_language": "en",
+      "original_title": "Psycho",
+      "overview": "",
+      "popularity": 10.7044,
+      "poster_path": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "release_date": "1960-06-22",
+      "title": "Psycho",
+      "video": false,
+      "vote_average": 8.423,
+      "vote_count": 10313,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 120,
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+      "overview": "Hobbit muda Frodo Baggins, setelah mewarisi cincin misterius dari pamannya, Bilbo, harus meninggalkan rumahnya agar tidak jatuh ke tangan penciptanya yang jahat. Sepanjang jalan, persekutuan dibentuk untuk melindungi ringbearer dan memastikan bahwa cincin itu tiba di tujuan akhirnya: Mt. Doom, satu-satunya tempat di mana ia bisa dihancurkan.",
+      "popularity": 32.5797,
+      "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "release_date": "2001-12-18",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 25880,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/120-the-lord-of-the-rings-the-fellowship-of-the-ring/watch?locale=ID",
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 7
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/alQqTpmEkxSLgajfEYTsTH6nAKB.jpg",
+      "genre_ids": [
+        35,
+        18,
+        14
+      ],
+      "id": 40096,
+      "original_language": "pt",
+      "original_title": "O Auto da Compadecida",
+      "overview": "",
+      "popularity": 2.0981,
+      "poster_path": "/xWCKF7hgOicb3A0XiY13SdlwRcn.jpg",
+      "release_date": "2000-09-15",
+      "title": "O Auto da Compadecida",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 1150,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bxSBOAD8AuMHYMdW3jso9npAkgt.jpg",
+      "genre_ids": [
+        10751,
+        18
+      ],
+      "id": 667257,
+      "original_language": "es",
+      "original_title": "Cosas imposibles",
+      "overview": "",
+      "popularity": 2.2118,
+      "poster_path": "/eaf7GQj0ieOwm08rrvjJQNbN0kN.jpg",
+      "release_date": "2021-06-17",
+      "title": "Cosas imposibles",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 403,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qUq3QTr2KLvGIcN0GaaaYx9bbyH.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 510,
+      "original_language": "en",
+      "original_title": "One Flew Over the Cuckoo's Nest",
+      "overview": "",
+      "popularity": 11.1526,
+      "poster_path": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+      "release_date": "1975-11-19",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "video": false,
+      "vote_average": 8.414,
+      "vote_count": 10722,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 14537,
+      "original_language": "ja",
+      "original_title": "切腹",
+      "overview": "",
+      "popularity": 3.8128,
+      "poster_path": "/w7pWcLaYQkbtRUn99K6ome0DblL.jpg",
+      "release_date": "1962-09-15",
+      "title": "切腹",
+      "video": false,
+      "vote_average": 8.412,
+      "vote_count": 1061,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w2uGvCpMtvRqZg6waC1hvLyZoJa.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 696374,
+      "original_language": "en",
+      "original_title": "Gabriel's Inferno",
+      "overview": "",
+      "popularity": 4.0737,
+      "poster_path": "/yXRoyYzIo17HfANn07oXYdyBy4h.jpg",
+      "release_date": "2020-05-29",
+      "title": "Gabriel's Inferno",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 2419,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uPYa165sraN2c8gZBM9C47g3JoU.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 311,
+      "original_language": "en",
+      "original_title": "Once Upon a Time in America",
+      "overview": "",
+      "popularity": 8.4198,
+      "poster_path": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+      "release_date": "1984-05-23",
+      "title": "Once Upon a Time in America",
+      "video": false,
+      "vote_average": 8.409,
+      "vote_count": 5581,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jfEOzpsjc6JDlKhUHb4toWQPt.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 121,
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Two Towers",
+      "overview": "Frodo dan Sam sedang berjalan ke Mordor untuk menghancurkan Satu Cincin Kekuasaan sementara Gimli, Legolas dan Aragorn mencari Merry dan Pippin yang ditangkap Orc. Selama ini, penyihir jahat Saruman menunggu anggota Fellowship di Menara Orthanc di Isengard.",
+      "popularity": 23.5202,
+      "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "release_date": "2002-12-18",
+      "title": "The Lord of the Rings: The Two Towers",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 22488,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/121-the-lord-of-the-rings-the-two-towers/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 7
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "id": 324857,
+      "original_language": "en",
+      "original_title": "Spider-Man: Into the Spider-Verse",
+      "overview": "Setelah digigit laba-laba radioaktif, seorang remaja Brooklyn, Miles Morales, mendapat pelajaran singkat cara berayun dengan jaring dari rekan-rekannya di dimensi lain.",
+      "popularity": 26.1995,
+      "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "release_date": "2018-12-06",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "video": false,
+      "vote_average": 8.397,
+      "vote_count": 16066,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/324857-spider-man-into-the-spider-verse/watch?locale=ID",
+        "buy": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/l2ZNwMC37iK0fquVuYWfcgIJJdF.jpg",
+            "provider_id": 489,
+            "provider_name": "Vidio",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/170ZfHTLT6ZlG38iLLpNYcBGUkG.jpg",
+            "provider_id": 1899,
+            "provider_name": "Max",
+            "display_priority": 40
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+            "provider_id": 2,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 6
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
+      "genre_ids": [
+        14,
+        16,
+        12
+      ],
+      "id": 4935,
+      "original_language": "ja",
+      "original_title": "ハウルの動く城",
+      "overview": "",
+      "popularity": 32.8824,
+      "poster_path": "/v0K2e1t6ocUNnkZ9BeiFdcOT9LG.jpg",
+      "release_date": "2004-09-09",
+      "title": "ハウルの動く城",
+      "video": false,
+      "vote_average": 8.397,
+      "vote_count": 10238,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/4935/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4Nx40jwpoTHPjCWNGoaZ6kaoGxa.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 255709,
+      "original_language": "ko",
+      "original_title": "소원",
+      "overview": "So Won adalah anak tunggal dan tinggal bersama ayah ibunya dengan bahagia. Ayahnya bernama Im Dong Hoon (Sol Kyung-gu) seorang pegawai pabrik, sedangkan ibunya bernama Kim Mi Hee (Uhm Ji Won) membuka toko kecil di depan rumahnya. Tetapi, sebuah tragedi terjadi ketika So Won berangkat ke sekolah. Ia diperkosa secara sadis oleh seorang pria di sebuah toilet umum.",
+      "popularity": 8.0359,
+      "poster_path": "/PZlNvDwKwHeHUsXnd6SEDXWZNn.jpg",
+      "release_date": "2013-10-02",
+      "title": "Hope Sowon Wish",
+      "video": false,
+      "vote_average": 8.394,
+      "vote_count": 766,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dMZxEdrWIzUmUoOz2zvmFuutbj7.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 1891,
+      "original_language": "en",
+      "original_title": "The Empire Strikes Back",
+      "overview": "Kisah epik ini berlanjut saat Luke Skywalker, dengan harapan mengalahkan Kekaisaran Galaksi yang jahat, mempelajari cara-cara Jedi dari guru tua Yoda. Namun Darth Vader lebih bertekad dari sebelumnya untuk menangkap Luke. Sementara itu, pemimpin pemberontak Putri Leia, Han Solo yang sombong, Chewbacca, dan droid C-3PO dan R2-D2 dilemparkan ke berbagai tahap penangkapan, pengkhianatan, dan keputusasaan.",
+      "popularity": 9.4577,
+      "poster_path": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "release_date": "1980-05-20",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "video": false,
+      "vote_average": 8.392,
+      "vote_count": 17325,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/1891-the-empire-strikes-back/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/5B0WB5ohGxRtON8qCuCkGgGCO18.jpg",
+            "provider_id": 122,
+            "provider_name": "Hotstar",
+            "display_priority": 3
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10749
+      ],
+      "id": 378064,
+      "original_language": "ja",
+      "original_title": "映画 聲の形",
+      "overview": "",
+      "popularity": 16.5938,
+      "poster_path": "/ndlHzeb0WwdorqDzikjuQg9Lxw1.jpg",
+      "release_date": "2016-09-17",
+      "title": "映画 聲の形",
+      "video": false,
+      "vote_average": 8.384,
+      "vote_count": 4085,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/378064/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jtAI6OJIWLWiRItNSZoWjrsUtmi.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 724089,
+      "original_language": "en",
+      "original_title": "Gabriel's Inferno: Part II",
+      "overview": "",
+      "popularity": 1.4399,
+      "poster_path": "/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg",
+      "release_date": "2020-07-31",
+      "title": "Gabriel's Inferno: Part II",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 1521,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 423,
+      "original_language": "en",
+      "original_title": "The Pianist",
+      "overview": "",
+      "popularity": 21.1745,
+      "poster_path": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "release_date": "2002-09-17",
+      "title": "The Pianist",
+      "video": false,
+      "vote_average": 8.379,
+      "vote_count": 9471,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/movie/423-the-pianist/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/e2hCUg2Z3sJ6yWF9NLU24SIKeWa.jpg",
+            "provider_id": 561,
+            "provider_name": "Lionsgate Play",
+            "display_priority": 35
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uBZQOYZLIU9dBmd62fdzBAoropu.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        18
+      ],
+      "id": 704264,
+      "original_language": "en",
+      "original_title": "Primal: Tales of Savagery",
+      "overview": "",
+      "popularity": 1.8629,
+      "poster_path": "/9NBBkdxH0TjQEBSN2AzeE1sgsF9.jpg",
+      "release_date": "2019-11-21",
+      "title": "Primal: Tales of Savagery",
+      "video": false,
+      "vote_average": 8.378,
+      "vote_count": 332,
+      "watch_providers": {}
+    }
+  ],
+  "popular_tv_series": [
+    {
+      "adult": false,
+      "backdrop_path": "/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+      "genre_ids": [
+        18,
+        10766
+      ],
+      "id": 13945,
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Gute Zeiten, schlechte Zeiten",
+      "overview": "",
+      "popularity": 689.1176,
+      "poster_path": "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+      "first_air_date": "1992-05-11",
+      "name": "Gute Zeiten, schlechte Zeiten",
+      "vote_average": 5.737,
+      "vote_count": 38,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+      "genre_ids": [
+        10767
+      ],
+      "id": 2261,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Tonight Show Starring Johnny Carson",
+      "overview": "",
+      "popularity": 609.6671,
+      "poster_path": "/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+      "first_air_date": "1962-10-01",
+      "name": "The Tonight Show Starring Johnny Carson",
+      "vote_average": 7.474,
+      "vote_count": 77,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h0y3OzHzG4yNvn8u3Za6ByH8lrQ.jpg",
+      "genre_ids": [
+        18,
+        10766
+      ],
+      "id": 45789,
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Sturm der Liebe",
+      "overview": "",
+      "popularity": 531.7244,
+      "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+      "first_air_date": "2005-09-26",
+      "name": "Sturm der Liebe",
+      "vote_average": 5.955,
+      "vote_count": 33,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+      "genre_ids": [
+        35,
+        10767
+      ],
+      "id": 63770,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Late Show with Stephen Colbert",
+      "overview": "",
+      "popularity": 507.5212,
+      "poster_path": "/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+      "first_air_date": "2015-09-08",
+      "name": "The Late Show with Stephen Colbert",
+      "vote_average": 6.4,
+      "vote_count": 301,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jR4GKwQADfOQ2twiUtTmWpsUJVi.jpg",
+      "genre_ids": [
+        10764
+      ],
+      "id": 40605,
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Die Harald Schmidt Show",
+      "overview": "",
+      "popularity": 510.1195,
+      "poster_path": "/lQcE1AzjDP5zJRUW76PMRn7ai9W.jpg",
+      "first_air_date": "1995-12-05",
+      "name": "Die Harald Schmidt Show",
+      "vote_average": 7.0,
+      "vote_count": 16,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m0bV3qBiJBBlpFaaKjwHo13MVjm.jpg",
+      "genre_ids": [
+        35,
+        10767
+      ],
+      "id": 14981,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Late Late Show with Craig Ferguson",
+      "overview": "",
+      "popularity": 486.3786,
+      "poster_path": "/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg",
+      "first_air_date": "2005-01-03",
+      "name": "The Late Late Show with Craig Ferguson",
+      "vote_average": 6.796,
+      "vote_count": 98,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6jGVOu5NvnmSKh28ByWAJrTOEH2.jpg",
+      "genre_ids": [
+        35,
+        10767
+      ],
+      "id": 59941,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Tonight Show Starring Jimmy Fallon",
+      "overview": "",
+      "popularity": 438.2487,
+      "poster_path": "/g4amxJvtpnY79J77xeamnAEUO8r.jpg",
+      "first_air_date": "2014-02-17",
+      "name": "The Tonight Show Starring Jimmy Fallon",
+      "vote_average": 5.8,
+      "vote_count": 334,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+      "genre_ids": [
+        10763
+      ],
+      "id": 94722,
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Tagesschau",
+      "overview": "",
+      "popularity": 367.5814,
+      "poster_path": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+      "first_air_date": "1952-12-26",
+      "name": "Tagesschau",
+      "vote_average": 6.8,
+      "vote_count": 237,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lqDlYLNA0RdMXDiz70lU8Ib1nwW.jpg",
+      "genre_ids": [
+        18,
+        35,
+        80
+      ],
+      "id": 8590,
+      "origin_country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "original_name": "Plus belle la vie",
+      "overview": "",
+      "popularity": 432.1058,
+      "poster_path": "/jmU8HlTDn87xmRqXagcL2swDr8I.jpg",
+      "first_air_date": "2004-08-30",
+      "name": "Plus belle la vie",
+      "vote_average": 4.2,
+      "vote_count": 31,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yVIudr5ZNtFvomu6CdFGKAa3njk.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10766
+      ],
+      "id": 36062,
+      "origin_country": [
+        "NL"
+      ],
+      "original_language": "nl",
+      "original_name": "SpangaS",
+      "overview": "",
+      "popularity": 418.3582,
+      "poster_path": "/2bH7QQ7WQfnbt1CWiX8BE5E2V4t.jpg",
+      "first_air_date": "2007-09-03",
+      "name": "SpangaS",
+      "vote_average": 3.0,
+      "vote_count": 6,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kA50bkSC6bw5ZkutYrN9sLD9CZ9.jpg",
+      "genre_ids": [
+        10767,
+        35
+      ],
+      "id": 22980,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Watch What Happens Live with Andy Cohen",
+      "overview": "",
+      "popularity": 433.1696,
+      "poster_path": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+      "first_air_date": "2009-07-16",
+      "name": "Watch What Happens Live with Andy Cohen",
+      "vote_average": 5.0,
+      "vote_count": 63,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1axH9IYz5fCHVUDNXLzivKEQObK.jpg",
+      "genre_ids": [
+        10763,
+        35
+      ],
+      "id": 2224,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Daily Show",
+      "overview": "",
+      "popularity": 415.2456,
+      "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+      "first_air_date": "1996-07-22",
+      "name": "The Daily Show",
+      "vote_average": 6.4,
+      "vote_count": 564,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qhfPZOCZPTzArvMq78180NqzbWd.jpg",
+      "genre_ids": [
+        10766
+      ],
+      "id": 14743,
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "ca",
+      "original_name": "El Cor de la Ciutat",
+      "overview": "",
+      "popularity": 404.4,
+      "poster_path": "/xQ83cJA8AxoQMZe8ADApWrRZB1v.jpg",
+      "first_air_date": "2000-09-11",
+      "name": "El Cor de la Ciutat",
+      "vote_average": 5.3,
+      "vote_count": 5,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7dowXHcFccjmxf0YZYxDFkfVq65.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 100088,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Last of Us",
+      "overview": "Dua puluh tahun setelah peradaban modern dihancurkan, Joel, seorang penyintas yang tangguh, disewa untuk menyelundupkan Ellie, seorang gadis berusia 14 tahun, keluar dari zona karantina yang menindas. Apa yang dimulai sebagai pekerjaan kecil segera menjadi perjalanan yang brutal dan memilukan, karena mereka berdua harus melintasi Amerika Serikat dan bergantung satu sama lain untuk bertahan hidup.",
+      "popularity": 375.8651,
+      "poster_path": "/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+      "first_air_date": "2023-01-15",
+      "name": "Yang Terakhir Dari Kita",
+      "vote_average": 8.6,
+      "vote_count": 5598,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/tv/100088-the-last-of-us/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/zDSJn28xTG4f6h2yxZ6UmCPvZ8j.jpg",
+            "provider_id": 483,
+            "provider_name": "MAX Stream",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/170ZfHTLT6ZlG38iLLpNYcBGUkG.jpg",
+            "provider_id": 1899,
+            "provider_name": "Max",
+            "display_priority": 40
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iEg2LHsFV3vC6LywkBAL3c1n9PP.jpg",
+      "genre_ids": [
+        10767,
+        35
+      ],
+      "id": 61818,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Late Night with Seth Meyers",
+      "overview": "",
+      "popularity": 371.7888,
+      "poster_path": "/rw0QaegwgKbRoB2CZe2lfewltT9.jpg",
+      "first_air_date": "2014-02-25",
+      "name": "Late Night with Seth Meyers",
+      "vote_average": 5.353,
+      "vote_count": 102,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3EGjqKhVHGsvNHvBIbxmqS17Aal.jpg",
+      "genre_ids": [
+        10767,
+        10763
+      ],
+      "id": 224,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Match of the Day",
+      "overview": "",
+      "popularity": 347.5089,
+      "poster_path": "/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+      "first_air_date": "1964-08-22",
+      "name": "Match of the Day",
+      "vote_average": 7.4,
+      "vote_count": 43,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 65701,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Good Mythical Morning",
+      "overview": "",
+      "popularity": 359.0347,
+      "poster_path": "/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+      "first_air_date": "2012-01-09",
+      "name": "Good Mythical Morning",
+      "vote_average": 6.9,
+      "vote_count": 75,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kkfqNkGQR5og5sDjJTxTVmI9PW.jpg",
+      "genre_ids": [
+        80,
+        18,
+        10766
+      ],
+      "id": 72879,
+      "origin_country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "original_name": "Demain nous appartient",
+      "overview": "",
+      "popularity": 366.2311,
+      "poster_path": "/zMWldNZF0wS3L5XkDVFHxYhclcL.jpg",
+      "first_air_date": "2017-07-17",
+      "name": "Demain nous appartient",
+      "vote_average": 6.2,
+      "vote_count": 65,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oRdc2nn7jLOYy4fBdvmFKPsKzZE.jpg",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "id": 2734,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Law & Order: Special Victims Unit",
+      "overview": "Dalam sistem peradilan pidana, pelanggaran berbasis seksual dianggap sangat kejam. Di New York City, detektif yang berdedikasi yang menyelidiki kejahatan keji ini adalah anggota pasukan elit yang dikenal sebagai Unit Korban Khusus. Ini adalah kisah mereka.",
+      "popularity": 347.7949,
+      "poster_path": "/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg",
+      "first_air_date": "1999-09-20",
+      "name": "Hukum & Ketertiban: Unit Khusus Korban",
+      "vote_average": 7.938,
+      "vote_count": 3911,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/170ZfHTLT6ZlG38iLLpNYcBGUkG.jpg",
+            "provider_id": 1899,
+            "provider_name": "Max",
+            "display_priority": 40
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 50821,
+      "origin_country": [
+        "HU"
+      ],
+      "original_language": "hu",
+      "original_name": "Barátok közt",
+      "overview": "",
+      "popularity": 334.7163,
+      "poster_path": "/mT6VFzwGPddwGjWGxzNOy4JVL8.jpg",
+      "first_air_date": "1998-10-26",
+      "name": "Barátok közt",
+      "vote_average": 3.625,
+      "vote_count": 12,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/amtOltTVcK9vQtL1iQS6p3LBi05.jpg",
+      "genre_ids": [
+        10767
+      ],
+      "id": 62223,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Late Late Show with James Corden",
+      "overview": "",
+      "popularity": 337.6932,
+      "poster_path": "/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
+      "first_air_date": "2015-03-23",
+      "name": "The Late Late Show with James Corden",
+      "vote_average": 5.278,
+      "vote_count": 135,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5stzCCL0Ya04gq3tYQ9wA6zb2Dq.jpg",
+      "genre_ids": [
+        10763
+      ],
+      "id": 4026,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "CBS News Sunday Morning",
+      "overview": "",
+      "popularity": 327.8842,
+      "poster_path": "/k4YOaHO6yv1MjtUPRmXbT8ASWHV.jpg",
+      "first_air_date": "1979-01-28",
+      "name": "CBS News Sunday Morning",
+      "vote_average": 6.75,
+      "vote_count": 20,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
+      "genre_ids": [
+        10766,
+        18
+      ],
+      "id": 14610,
+      "origin_country": [
+        "FI"
+      ],
+      "original_language": "fi",
+      "original_name": "Salatut elämät",
+      "overview": "",
+      "popularity": 343.7624,
+      "poster_path": "/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
+      "first_air_date": "1999-01-25",
+      "name": "Salatut elämät",
+      "vote_average": 4.5,
+      "vote_count": 17,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bWCAkYs4Sd8MOYHkzwbhrw2lgWh.jpg",
+      "genre_ids": [
+        10763,
+        10767
+      ],
+      "id": 4496,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Meet the Press",
+      "overview": "",
+      "popularity": 309.5326,
+      "poster_path": "/lisjDmT2xTykSZxCNvd7E3gQ9AI.jpg",
+      "first_air_date": "1947-11-06",
+      "name": "Meet the Press",
+      "vote_average": 4.077,
+      "vote_count": 13,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7jEnft2CLNbILWAiBRIBrXNN7Qh.jpg",
+      "genre_ids": [
+        10767,
+        35
+      ],
+      "id": 498,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Late Show with David Letterman",
+      "overview": "",
+      "popularity": 314.9711,
+      "poster_path": "/fTBC5EpsgKmli9VQcJMtqQ08Qj4.jpg",
+      "first_air_date": "1993-08-30",
+      "name": "Late Show with David Letterman",
+      "vote_average": 6.333,
+      "vote_count": 150,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q8fmM50In8xGVW0iYoENPa71kAA.jpg",
+      "genre_ids": [
+        10764
+      ],
+      "id": 1636,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Top of the Pops",
+      "overview": "",
+      "popularity": 336.7989,
+      "poster_path": "/jjfTTjVYWyD6rGHVbnC44IrsJ7P.jpg",
+      "first_air_date": "1964-01-01",
+      "name": "Top of the Pops",
+      "vote_average": 6.6,
+      "vote_count": 42,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l418EclewHc7BWxR00fg4CwBm2m.jpg",
+      "genre_ids": [
+        10763,
+        35,
+        10767,
+        10764
+      ],
+      "id": 88033,
+      "origin_country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "original_name": "Les Guignols de l'info",
+      "overview": "",
+      "popularity": 283.7734,
+      "poster_path": "/9u7oDri9TvJXffoe6cyD2EDkQi2.jpg",
+      "first_air_date": "1988-08-29",
+      "name": "Les Guignols de l'info",
+      "vote_average": 7.9,
+      "vote_count": 18,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q0S4BjSa0UKRtqXLzMGA6FNlkmD.jpg",
+      "genre_ids": [
+        10766
+      ],
+      "id": 14424,
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Malhação",
+      "overview": "",
+      "popularity": 287.8222,
+      "poster_path": "/bF24r2FxsjzgkJcrbBU8RC9JVoU.jpg",
+      "first_air_date": "1995-04-24",
+      "name": "Malhação",
+      "vote_average": 6.1,
+      "vote_count": 31,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eXPYbOfQ6YRgqgnsXTTEIL1clRs.jpg",
+      "genre_ids": [
+        10766,
+        18
+      ],
+      "id": 6174,
+      "origin_country": [
+        "ZA"
+      ],
+      "original_language": "en",
+      "original_name": "Isidingo",
+      "overview": "",
+      "popularity": 261.0539,
+      "poster_path": "/hxJdczj4roJ9OtqSJcuAkD2TK6y.jpg",
+      "first_air_date": "1998-07-07",
+      "name": "Isidingo",
+      "vote_average": 4.3,
+      "vote_count": 3,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fgvM6m7gAd8kDAaLF16aflbOSAK.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1416,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Grey's Anatomy",
+      "overview": "Ikuti kehidupan pribadi dan profesional sekelompok dokter di Rumah Sakit Gray Sloan Memorial di Seattle.",
+      "popularity": 265.1442,
+      "poster_path": "/7jEVqXC14bhfAzSPgr896dMdDv6.jpg",
+      "first_air_date": "2005-03-27",
+      "name": "Anatomi Grey",
+      "vote_average": 8.228,
+      "vote_count": 10463,
+      "watch_providers": {
+        "link": "https://www.themoviedb.org/tv/1416-grey-s-anatomy/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/5B0WB5ohGxRtON8qCuCkGgGCO18.jpg",
+            "provider_id": 122,
+            "provider_name": "Hotstar",
+            "display_priority": 3
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2o0cVL6fOa06aXd5xogZhD1h4ce.jpg",
+      "genre_ids": [
+        10766,
+        18
+      ],
+      "id": 14686,
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Alles was zählt",
+      "overview": "",
+      "popularity": 271.2356,
+      "poster_path": "/zExwkyO7exxrMVrpOkDvK0BTelW.jpg",
+      "first_air_date": "2006-09-04",
+      "name": "Alles was zählt",
+      "vote_average": 4.5,
+      "vote_count": 6,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qJnjJXBLgG4tummCm792nvNz7u1.jpg",
+      "genre_ids": [
+        10767
+      ],
+      "id": 23915,
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Markus Lanz",
+      "overview": "",
+      "popularity": 261.4214,
+      "poster_path": "/tr4cLn4ecRASV0SPM9FRv0AJOQF.jpg",
+      "first_air_date": "2008-06-03",
+      "name": "Markus Lanz",
+      "vote_average": 4.9,
+      "vote_count": 12,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lt9fFOFhR6QI5oIAvfWVx4G7nt0.jpg",
+      "genre_ids": [
+        18,
+        10759
+      ],
+      "id": 66515,
+      "origin_country": [
+        "PH"
+      ],
+      "original_language": "tl",
+      "original_name": "Ang Probinsyano",
+      "overview": "",
+      "popularity": 252.3582,
+      "poster_path": "/uX5ldo2snjJuZ8P9AxOharboxJn.jpg",
+      "first_air_date": "2015-09-28",
+      "name": "Ang Probinsyano",
+      "vote_average": 6.6,
+      "vote_count": 33,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10764
+      ],
+      "id": 4862,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "I've Got a Secret",
+      "overview": "",
+      "popularity": 244.484,
+      "poster_path": "/yMGxV37D6Jt3Len7q8QocLJJ5E3.jpg",
+      "first_air_date": "1952-06-19",
+      "name": "I've Got a Secret",
+      "vote_average": 7.7,
+      "vote_count": 3,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rVGhUYTdicAohn2mPbgNXuO5g0e.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10766
+      ],
+      "id": 308,
+      "origin_country": [
+        "PT"
+      ],
+      "original_language": "pt",
+      "original_name": "Morangos com Açúcar",
+      "overview": "",
+      "popularity": 255.6763,
+      "poster_path": "/uyzx0JkWOOF3Mfcq4uiuIr2Ykju.jpg",
+      "first_air_date": "2003-08-30",
+      "name": "Morangos com Açúcar",
+      "vote_average": 5.588,
+      "vote_count": 17,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
+      "genre_ids": [
+        10766
+      ],
+      "id": 81329,
+      "origin_country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "original_name": "Un si grand soleil",
+      "overview": "",
+      "popularity": 254.5767,
+      "poster_path": "/v4r70Z5id8eHFCxrfBOtRgu6wLr.jpg",
+      "first_air_date": "2018-08-27",
+      "name": "Un si grand soleil",
+      "vote_average": 6.79,
+      "vote_count": 119,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pLn4lsSBtGUY1whHyCoEJhgziaP.jpg",
+      "genre_ids": [
+        10764,
+        10751
+      ],
+      "id": 2912,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Jeopardy!",
+      "overview": "",
+      "popularity": 228.6745,
+      "poster_path": "/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+      "first_air_date": "1984-09-10",
+      "name": "Jeopardy!",
+      "vote_average": 6.836,
+      "vote_count": 137,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
+      "genre_ids": [
+        80,
+        18,
+        35
+      ],
+      "id": 79744,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Rookie",
+      "overview": "",
+      "popularity": 228.9816,
+      "poster_path": "/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
+      "first_air_date": "2018-10-16",
+      "name": "The Rookie",
+      "vote_average": 8.511,
+      "vote_count": 2371,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pnTYmGcsJBgQyI6qB8wHyvbuHBW.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        10767
+      ],
+      "id": 55216,
+      "origin_country": [
+        "FR",
+        "CH"
+      ],
+      "original_language": "fr",
+      "original_name": "Scènes de ménages",
+      "overview": "",
+      "popularity": 231.7493,
+      "poster_path": "/38N3KQblPyTLGWNZs2qmy9mQywm.jpg",
+      "first_air_date": "2009-11-09",
+      "name": "Scènes de ménages",
+      "vote_average": 6.2,
+      "vote_count": 27,
+      "watch_providers": {}
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2Ib8kvWa9gGhJrAfGlhIvbmtbWn.jpg",
+      "genre_ids": [
+        10767,
+        35,
+        10763
+      ],
+      "id": 32415,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Conan",
+      "overview": "",
+      "popularity": 220.8315,
+      "poster_path": "/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+      "first_air_date": "2010-11-08",
+      "name": "Conan",
+      "vote_average": 7.0,
+      "vote_count": 231,
+      "watch_providers": {}
+    }
+  ]
+}

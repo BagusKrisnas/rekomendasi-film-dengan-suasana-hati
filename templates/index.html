@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temukan Film Sesuai Suasana Hati</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        // Konfigurasi warna kustom Tailwind
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'custom-bg': '#F3F3E0',
+                        'custom-button': '#EAC696',
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        /* Anda bisa menambahkan font kustom di sini jika diperlukan agar lebih mirip */
+        @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-custom-bg flex items-center justify-center min-h-screen">
+
+    <main class="max-w-xl px-8">
+        <h1 class="text-5xl md:text-6xl font-bold text-gray-800 leading-tight">
+            Temukan<br>
+            Pilihan Film<br>
+            sesuai<br>
+            Suasana Hatmu
+        </h1>
+
+        <p class="mt-6 text-base md:text-2xl text-gray-800">
+            Website ini hadir sebagai solusi bagi kamu yang bingung mau nonton apa. Dengan suasana hati pengguna, kami merekomendasikan film dan serial yang sesuai dengan perasaanmu saat ini - baik saat senang, sedih, tegang, semangat, atau ingin bersantai. Cukup pilih suasana hatimu, dan nikmati rekomendasi tayangan yang pas, tanpa harus scroll lama-lama!
+        </p>
+
+        <div class="mt-10">
+            <a href="{{ url_for('mood') }}" class="inline-block bg-[#C89B4F] text-gray-900 font-bold py-3 px-10 border border-black rounded-full shadow-sm hover:opacity-80 transition-opacity duration-300">
+                Coba Sekarang
+            </a>
+        </div>
+    </main>
+
+</body>
+</html>

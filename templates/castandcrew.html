@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pemeran & Kru</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            cream: '#EFEBD9',
+            navbar: '#E0E0BC'
+          },
+          fontFamily: {
+            inter: ['Lato', 'sans-serif']
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+  </style>
+</head>
+<body class="bg-cream min-h-screen text-black">
+
+  <!-- Navbar -->
+  <nav class="bg-navbar py-4 px-6 shadow">
+    <div class="max-w-screen-xl mx-auto flex justify-center">
+      <form action="/cari" method="GET" class="relative w-full max-w-md">
+        <input type="text" name="query" placeholder="cari film atau serial TV"
+          class="w-full py-2 pl-12 pr-4 border rounded-full bg-white text-gray-700 focus:outline-none">
+        <img src="{{ url_for('static', filename='assets/search.png') }}"
+             class="w-5 h-5 absolute left-4 top-1/2 -translate-y-1/2">
+      </form>
+    </div>
+  </nav>
+
+  <!-- Judul -->
+  <div class="max-w-screen-xl mx-auto px-6 py-10">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
+      
+      <!-- Aktor -->
+      <div>
+        <h2 class="text-2xl font-bold mb-6">Pemeran</h2>
+        <div class="space-y-6">
+          {% for actor in detail.cast %}
+          <div class="flex items-start gap-4">
+            <img src="{{ actor.profile_url or url_for('static', filename='assets/person-placeholder.png') }}"
+                 alt="{{ actor.name }}"
+                 class="w-20 h-28 object-cover rounded-md shadow">
+            <div>
+              <p class="font-bold text-lg leading-tight">{{ actor.name }}</p>
+              <p class="text-sm text-gray-700">{{ actor.character }}</p>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+
+      <!-- Kru -->
+      <div>
+        <h2 class="text-2xl font-bold mb-6">Kru</h2>
+        <div class="space-y-6">
+          {% for member in detail.crew %}
+          <div class="flex items-start gap-4">
+            <img src="{{ member.profile_url or url_for('static', filename='assets/person-placeholder.png') }}"
+                 alt="{{ member.name }}"
+                 class="w-20 h-28 object-cover rounded-md shadow">
+            <div>
+              <p class="font-bold text-lg leading-tight">{{ member.name }}</p>
+              <p class="text-sm text-gray-700">{{ member.job }}</p>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</body>
+</html>

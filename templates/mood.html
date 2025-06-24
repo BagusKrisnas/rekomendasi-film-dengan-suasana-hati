@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pilihan Suasana Hati</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        // Konfigurasi warna kustom Tailwind
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'custom-bg': '#F3F3E0',
+                        'custom-button': '#EAC696',
+                        'custom-button-border': '#A7A7A7',
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        /* Mengimpor font Lato dari Google Fonts */
+        @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+        
+        /* Mengatur font default ke Lato */
+        body {
+            font-family: 'Lato', sans-serif;
+        }
+        
+        /* Style tambahan untuk tombol yang dipilih */
+        .selected {
+            border-color: #000000 !important;
+            box-shadow: 0 0 0 3px #C89B4F;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body class="bg-custom-bg flex items-center justify-center min-h-screen p-4">
+
+    <main class="w-full max-w-2xl mx-auto">
+        <form action="/rekomendasi" method="POST" class="flex flex-col items-center gap-4">
+            <div class="text-center">
+                <h1 class="text-4xl md:text-5xl font-bold text-gray-800">
+                    Bagaimana Suasana Hatimu Hari Ini?
+                </h1>
+                <p class="mt-4 text-2xl text-gray-700">
+                    Pilih salah satu agar kami dapat mencarikan tontonan<br>yang cocok dengan perasaanmu.
+                </p>
+            </div>
+
+            <input type="hidden" name="mood" id="selected-mood" required>
+
+            <div class="mt-12 flex flex-wrap justify-center gap-4 md:gap-6">
+                <button type="button" class="mood-option flex items-center gap-3 bg-[#f3f3e0] py-3 px-8 rounded-lg border border-custom-button-border transition-all duration-200" data-value="senang">
+                    <img src="{{ url_for('static', filename='assets/senang.png') }}" alt="Senang" class="w-7 h-7">
+                    <span class="text-lg font-medium text-gray-800">Senang</span>
+                </button>
+                <button type="button" class="mood-option flex items-center gap-3 bg-[#f3f3e0] py-3 px-8 rounded-lg border border-custom-button-border transition-all duration-200" data-value="tegang">
+                    <img src="{{ url_for('static', filename='assets/tegang.png') }}" alt="Tegang" class="w-7 h-7">
+                    <span class="text-lg font-medium text-gray-800">Tegang</span>
+                </button>
+                <button type="button" class="mood-option flex items-center gap-3 bg-[#f3f3e0] py-3 px-8 rounded-lg border border-custom-button-border transition-all duration-200" data-value="semangat">
+                    <img src="{{ url_for('static', filename='assets/semangat.png') }}" alt="Semangat" class="w-7 h-7">
+                    <span class="text-lg font-medium text-gray-800">Semangat</span>
+                </button>
+                <button type="button" class="mood-option flex items-center gap-3 bg-[#f3f3e0] py-3 px-8 rounded-lg border border-custom-button-border transition-all duration-200" data-value="sedih">
+                    <img src="{{ url_for('static', filename='assets/sedih.png') }}" alt="Sedih" class="w-7 h-7">
+                    <span class="text-lg font-medium text-gray-800">Sedih</span>
+                </button>
+                <button type="button" class="mood-option flex items-center gap-3 bg-[#f3f3e0] py-3 px-8 rounded-lg border border-custom-button-border transition-all duration-200" data-value="santai">
+                    <img src="{{ url_for('static', filename='assets/santai.png') }}" alt="Santai" class="w-7 h-7">
+                    <span class="text-lg font-medium text-gray-800">Santai</span>
+                </button>
+            </div>
+
+            <div class="mt-16 flex justify-end">
+                <button type="submit" class="inline-block bg-[#C89B4F] text-gray-900 font-bold py-3 px-12 rounded-full hover:opacity-80 transition-opacity duration-300">
+                    Selesai
+                </button>
+            </div>
+        </form>
+    </main>
+    
+    <script>
+        const moodOptions = document.querySelectorAll('.mood-option');
+        const hiddenInput = document.getElementById('selected-mood');
+        
+        moodOptions.forEach(option => {
+            option.addEventListener('click', () => {
+                // Hapus kelas 'selected' dari semua tombol
+                moodOptions.forEach(btn => btn.classList.remove('selected'));
+                
+                // Tambahkan kelas 'selected' ke tombol yang diklik
+                option.classList.add('selected');
+                
+                // Set nilai input tersembunyi berdasarkan data-value tombol
+                hiddenInput.value = option.getAttribute('data-value');
+            });
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ detail.title }}</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            cream: '#EFEBD9',
+            abu: '#999999',
+            navbar: '#E0E0BC'
+          },
+          fontFamily: {
+            inter: ['Lato', 'sans-serif']
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body {
+      font-family: 'Lato', sans-serif;
+    }
+  </style>
+</head>
+<body class="bg-cream text-black">
+
+  <!-- Navbar -->
+  <nav class="bg-navbar py-4 px-6 shadow">
+    <div class="max-w-screen-xl mx-auto flex justify-center">
+      <form action="/cari" method="GET" class="relative w-full max-w-md">
+        <input type="text" name="query" value="{{ detail.title }}" placeholder="cari film atau serial TV"
+          class="w-full py-2 pl-12 pr-4 border rounded-full bg-white text-gray-700 focus:outline-none" />
+        <img src="{{ url_for('static', filename='assets/search.png') }}" class="w-5 h-5 absolute left-4 top-1/2 -translate-y-1/2 text-abu" />
+      </form>
+    </div>
+  </nav>
+
+  <!-- Konten Detail -->
+  <div class="max-w-screen-xl mx-auto px-4 py-8 text-black">
+    <!-- Judul -->
+    <h1 class="text-2xl md:text-4xl font-bold text-center">
+      {{ detail.title }}
+      {% if release_year %}
+      <span class="text-lg text-gray-500">({{ release_year }})</span>
+      {% endif %}
+    </h1>
+
+    <!-- Poster -->
+    <div class="flex justify-center mt-6">
+      <img src="{{ detail.poster_url }}" alt="Poster" class="w-60 sm:w-72 md:w-80 rounded-lg shadow-lg" />
+    </div>
+
+    <!-- Synopsis -->
+    <div class="mt-8">
+      <h2 class="text-xl font-semibold mb-2">SYNOPSIS</h2>
+      <p class="text-base leading-relaxed">{{ detail.overview or "Sinopsis tidak tersedia." }}</p>
+    </div>
+
+    <!-- Cast -->
+    <div class="mt-6 flex flex-wrap gap-4">
+      {% for cast in detail.cast[:5] %}
+      <div class="w-24 text-center shadow">
+        <img src="{{ cast.profile_url or url_for('static', filename='assets/person-placeholder.png') }}" class="w-full h-auto rounded-md">
+        <p class="text-sm font-semibold mt-1">{{ cast.name }}</p>
+        {% if cast.character %}
+          <p class="text-xs text-gray-600">{{ cast.character }}</p>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+    <div>
+      <a href="/castandcrew/{{ detail.id }}" class="text-sm text-black font-semibold underline hover:text-gray-600">Kru & Aktor Lainnya</a>
+    </div>
+
+    <!-- Streaming Providers -->
+    {% if detail.streaming_providers %}
+    <div class="mt-8">
+      <h2 class="text-xl font-semibold mb-2">TERSEDIA DI</h2>
+      <div class="flex flex-col gap-3">
+        {% for provider in detail.streaming_providers.split(", ") %}
+        <div class="flex items-center gap-2">
+          <img src="{{ url_for('static', filename='assets/' + provider|lower|replace(' ', '') + '.png') }}" class="w-6 h-6" />
+          <span class="text-base">{{ provider }}</span>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    <!-- Rating -->
+    <div class="mt-8 mb-12">
+      <h2 class="text-xl font-semibold mb-2">RATING</h2>
+      <div class="flex items-center gap-2">
+        <img src="{{ url_for('static', filename='assets/tmdb.png') }}" class="w-6 h-6" />
+        <span class="text-base font-semibold">{{ detail.vote_average }}%</span>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
